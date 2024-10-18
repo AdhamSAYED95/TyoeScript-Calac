@@ -22,7 +22,6 @@ function main() {
             console.log("\nInvalid input \n");
             main();
         }
-        console.log("Calculator exited.");
     }
 }
 function calculate(firstNum, operator, secondNum) {
